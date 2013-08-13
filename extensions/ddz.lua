@@ -72,7 +72,7 @@ function ddz.CompareWithPoint(card1, card2)
 	card1 = type(card1) == "number" and sgs.Sanguosha:getCard(card1) or card1
 	card2 = type(card1) == "number" and sgs.Sanguosha:getCard(card2) or card2
 	local number1, number2 = card1:getNumber(), card2:getNumber()
-	if number1 ~= number1 then
+	if number1 ~= number2 then
 		return ddz.getPos(ddz.Size, number1) < ddz.getPos(ddz.Size, number2)
 	else
 		return number1 == 0 and ddz.CompareWithColor(card1, card2)
@@ -1067,7 +1067,7 @@ QuadrupleTwoDouble = ddz.CreateCardType
 		end
 		local lists = {list1, list2, list3}
 		local yes = false
-		lists:sort(function(llist, rlist) return #llist > #rlist; end)
+		table.sort(lists, (function(llist, rlist) return #llist > #rlist; end))
 		for _, list in ipairs(lists) do
 			if #lists == 2 then
 				if #list == 4 then

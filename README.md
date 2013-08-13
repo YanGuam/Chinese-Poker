@@ -45,3 +45,48 @@ Preview:
 ![DiamondK](/image/big-card/diamond13.png "Brianvong")
 ![Diamond10](/image/big-card/diamond10.png "Paracel")
 ![Heart5](/image/big-card/heart5.png "Commander")
+
+
+Project Members:
+----------------
+
+
+Programmers:
+	
+[Yanguam](https://github.com/YanGuam)
+	
+[doublebit015](https://github.com/doublebit015)
+	
+	
+Translators:
+	
+[doublebit015](https://github.com/doublebit015)
+	
+[BeginnerSlob](https://github.com/BeginnerSlob)
+	
+	
+Graphic Designers:
+	
+[doublebit015](https://github.com/doublebit015)
+	
+[Yanguam](https://github.com/YanGuam)
+	
+	
+Testers:
+	
+[Yanguam](https://github.com/YanGuam)
+	
+[BeginnerSlob](https://github.com/BeginnerSlob)
+	
+[doublebit015](https://github.com/doublebit015)
+	
+[FrozenFeather](https://github.com/FrozenFeather)
+	
+[H15teve](https://github.com/H15teve)
+	
+	
+Rule Adviser:
+
+[FrozenFeather](https://github.com/FrozenFeather)
+	
+[BeginnerSlob](https://github.com/BeginnerSlob)
