@@ -26,7 +26,7 @@ card package(not general card package).
 	
 	
 6.If you wanna play Normal Mode, ensure you have run "关闭斗地主模式.bat" before openning the game.
-Otherwise, it may cause a program crash.
+Otherwise, it may cause a **program crash**.
 	
 	
 *Yanguam Siliagim*
