@@ -1,7 +1,7 @@
 Chinese-Poker
 =============
 
-An extension based on QSanguosha
+An extension based on [QSanguosha-V2](https://github.com/gaodayihao/QSanguosha)
 
 
 To Play:	
