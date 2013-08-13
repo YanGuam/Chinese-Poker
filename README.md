@@ -32,7 +32,7 @@ Otherwise, it may cause a **program crash**.
 *Yanguam Siliagim*
 	
 	
-Preview
+Preview:
 -------
 	
 	
@@ -40,3 +40,5 @@ Preview
 ![Landlord](/image/card/landlord.jpg)
 ![Joker1](/image/big-card/JokerRed.png)
 ![Joker2](/image/big-card/JokerBlack.png)
+![Spade1](/image/big-card/spade1.png)
+![Spade2](/image/big-card/spade2.png)
