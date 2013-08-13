@@ -8,17 +8,17 @@ To Play:
 -------
 	
 	
-1.Make sure you have already install the QSanguosha-V2(version needed is at least *20130610*. the extension is
+1.Make sure you have already install the QSanguosha-V2(version needed is at least **20130610**. the extension is
 also supported by Para's private mod).
 	
 	
-2.Download all the file in this repository .Unzip and put them in your *root directory* of QSanguosha.
+2.Download all the file in this repository .Unzip and put them in your **root directory** of QSanguosha.
 	
 	
-3.*Run "进入斗地主模式.bat" before playing QSanguosha*.
+3.Run "进入斗地主模式.bat" before playing QSanguosha.
 	
 	
-4.Set up a room with *3 persons*, with *"FreeChoose"* and DDZ Package selected. Do not use any game
+4.Set up a room with **3 persons**, with **"FreeChoose"** and DDZ Package selected. Do not use any game
 card package(not general card package).
 	
 	
@@ -29,4 +29,4 @@ card package(not general card package).
 Otherwise, it may cause a program crash.
 	
 	
-**Yanguam Siliagim**
+*Yanguam Siliagim*

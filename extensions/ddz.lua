@@ -1818,6 +1818,11 @@ DDZGame = sgs.CreateTriggerSkill
 			for _,p in sgs.qlist(room:getOtherPlayers(final_winner)) do
 				room:setPlayerProperty(p, "role", sgs.QVariant("rebel"))
 			end
+			
+			if sgs.GetConfig("PileSwappingLimitation", 5) ~= swapcount then
+				sgs.SetConfig("PileSwappingLimitation", swapcount)
+			end
+			
 			room:gameOver("lord")
 			
 		elseif event == sgs.CardUsed then			
