@@ -53,32 +53,32 @@ Project Members:
 
 Programmers:
 	
-[Yanguam](https://github.com/YanGuam)
-[doublebit015](https://github.com/doublebit015)
+[Yanguam](https://github.com/YanGuam);
+[doublebit015](https://github.com/doublebit015) 
 	
 	
 Translators:
 	
-[doublebit015](https://github.com/doublebit015)
+[doublebit015](https://github.com/doublebit015);
 [BeginnerSlob](https://github.com/BeginnerSlob)
 	
 	
 Graphic Designers:
 	
-[doublebit015](https://github.com/doublebit015)
+[doublebit015](https://github.com/doublebit015);
 [Yanguam](https://github.com/YanGuam)
 	
 	
 Testers:
 	
-[Yanguam](https://github.com/YanGuam)
-[BeginnerSlob](https://github.com/BeginnerSlob)
-[doublebit015](https://github.com/doublebit015)
-[FrozenFeather](https://github.com/FrozenFeather)
+[Yanguam](https://github.com/YanGuam);
+[BeginnerSlob](https://github.com/BeginnerSlob);
+[doublebit015](https://github.com/doublebit015);
+[FrozenFeather](https://github.com/FrozenFeather);
 [H15teve](https://github.com/H15teve)
 	
 	
-Rule Adviser:
+Rule Advisers:
 
-[FrozenFeather](https://github.com/FrozenFeather)
+[FrozenFeather](https://github.com/FrozenFeather);
 [BeginnerSlob](https://github.com/BeginnerSlob)
