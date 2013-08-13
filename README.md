@@ -30,3 +30,13 @@ Otherwise, it may cause a **program crash**.
 	
 	
 *Yanguam Siliagim*
+	
+	
+Preview
+-------
+	
+	
+![Peasant](/image/card/peasant.jpg)
+![Landlord](/image/card/landlord.jpg)
+![Joker1](/image/big-card/JokerRed.png)
+![Joker2](/image/big-card/JokerBlack.png)
