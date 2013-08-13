@@ -22,7 +22,7 @@ also supported by Para's private mod).
 card package(not general card package).
 	
 	
-5.If at least one player choose general peasant, the Chinese Poker Mode will begin in seconds. Have fun!
+5.If at least one player has chosen general peasant, the Chinese Poker Mode will begin in seconds. Have fun!
 	
 	
 6.If you wanna play Normal Mode, ensure you have run "关闭斗地主模式.bat" before openning the game.
