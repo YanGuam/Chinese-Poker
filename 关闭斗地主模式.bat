@@ -1,0 +1,1 @@
+echo ddzuse = false > ddzuse.lua
