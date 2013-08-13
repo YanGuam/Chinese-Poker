@@ -38,7 +38,10 @@ Preview:
 	
 ![Peasant](/image/card/peasant.jpg)
 ![Landlord](/image/card/landlord.jpg)
-![Joker1](/image/big-card/JokerRed.png)
+![Joker1](/image/big-card/JokerRed.png "Moligaloo")
 ![Joker2](/image/big-card/JokerBlack.png)
-![Spade1](/image/big-card/spade1.png)
+![Spade5](/image/big-card/spade5.png "DoubleBit")
 ![Spade2](/image/big-card/spade2.png)
+![DiamondK](/image/big-card/diamond13.png "Brianvong")
+![Diamond10](/image/big-card/diamond10.png "Paracel")
+![Heart5](/image/big-card/heart5.png "Commander")
