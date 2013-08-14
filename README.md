@@ -8,8 +8,8 @@ To Play:
 -------
 	
 	
-1.Make sure you have already install the QSanguosha-V2(version needed is at least **20130610**. the extension is
-also supported by Para's private mod).
+1.Make sure that you have already install the QSanguosha-V2(version needed is at least **20130610**. the extension is
+also supported by [Para's private mod](https://github.com/Paracel/QSanguosha-Para)).
 	
 	
 2.Download all the file in this repository .Unzip and put them in your **root directory** of QSanguosha.
@@ -25,7 +25,7 @@ card package(not general card package).
 5.If at least one player has chosen general peasant, the Chinese Poker Mode will begin in seconds. Have fun!
 	
 	
-6.If you wanna play Normal Mode, ensure you have run "关闭斗地主模式.bat" before openning the game.
+6.If you wanna play Normal Mode, ensure that you have run "关闭斗地主模式.bat" before openning the game.
 Otherwise, it may cause a **program crash**.
 	
 	
