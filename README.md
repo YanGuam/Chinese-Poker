@@ -51,6 +51,9 @@ Project Members:
 ----------------
 
 
+**Origin of Inspiration: [McDon](https://github.com/McDon)**
+
+
 Programmers:
 	
 [Yanguam](https://github.com/YanGuam);
@@ -75,10 +78,12 @@ Testers:
 [BeginnerSlob](https://github.com/BeginnerSlob);
 [doublebit015](https://github.com/doublebit015);
 [FrozenFeather](https://github.com/FrozenFeather);
-[H15teve](https://github.com/H15teve)
+[H15teve](https://github.com/H15teve);
+[McDon](https://github.com/McDon)
 	
 	
 Rule Advisers:
 
 [FrozenFeather](https://github.com/FrozenFeather);
-[BeginnerSlob](https://github.com/BeginnerSlob)
+[BeginnerSlob](https://github.com/BeginnerSlob);
+[McDon](https://github.com/McDon)
