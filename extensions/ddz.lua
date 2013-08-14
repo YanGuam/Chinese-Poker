@@ -1727,7 +1727,7 @@ DDZGame = sgs.CreateTriggerSkill
 				p:gainMark("@points", 15)
 			end
 				
-			for i=1,6 do
+			while true do
 		
 				local winner = false
 				room:setTag("DDZMult", sgs.QVariant(1))
@@ -1801,6 +1801,7 @@ DDZGame = sgs.CreateTriggerSkill
 				room:setTag("DDZMult", sgs.QVariant(1))
 				room:setTag("DDZBidding", sgs.QVariant(0))
 				for _,p in sgs.qlist(players) do
+					if p:getMark("@points") == 0 then break end
 					room:setPlayerMark(p, "putimes", 0)
 					p:throwAllHandCards()
 				end
