@@ -1824,6 +1824,8 @@ DDZGame = sgs.CreateTriggerSkill
 				sgs.SetConfig("PileSwappingLimitation", swapcount)
 			end
 			
+			room:doLightbox("$GameOver", 4000)
+			
 			room:gameOver("lord")
 			
 		elseif event == sgs.CardUsed then			
