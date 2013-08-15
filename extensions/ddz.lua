@@ -4,7 +4,9 @@ require("ddzuse")
 
 extension = sgs.Package("ddz")
 
-assert(tonumber(string.sub(sgs.Sanguosha:getVersion(), 1, 8)) >= 20130610)
+if tonumber(string.sub(sgs.Sanguosha:getVersion(), 1, 8)) < 20130610 then
+	error("Sorry, the extension has not been supported by your version.")
+end
 
 local suits = {sgs.Card_Spade, sgs.Card_Heart, sgs.Card_Club, sgs.Card_Diamond}
 for _,suit in ipairs(suits) do
@@ -1823,8 +1825,6 @@ DDZGame = sgs.CreateTriggerSkill
 			if sgs.GetConfig("PileSwappingLimitation", 5) ~= swapcount then
 				sgs.SetConfig("PileSwappingLimitation", swapcount)
 			end
-			
-			room:doLightbox("$GameOver", 4000)
 			
 			room:gameOver("lord")
 			
