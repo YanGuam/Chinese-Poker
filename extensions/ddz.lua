@@ -258,6 +258,13 @@ function ddz.StartDraw(splayer, skill)
 		--room:attachSkillToPlayer(p, skill)
 	end
 	::lab:: if room:getDrawPile():isEmpty() then
+		for _, p in sgs.qlist(players) do
+			if p:isKongcheng() then continue end
+			p:throwAllHandCards()
+		end
+		for _, id in sgs.qlist(room:getDrawPile()) do
+			room:throwCard(id, nil)
+		end
 		room:swapPile()
 	end
 	local card = room:getDrawPile():at(math.random(0, room:getDrawPile():length() - 1))
@@ -285,13 +292,6 @@ function ddz.StartDraw(splayer, skill)
 		log.type = "$DDZNoOwner" -- Unfortunately, The Key Card xxx is one of the last three cards, we will draw cards again later
 		log.card_str = tostring(card)
 		room:sendLog(log)
-	
-		for _, p in sgs.qlist(players) do
-			p:throwAllHandCards()
-		end
-		for _, id in sgs.qlist(room:getDrawPile()) do
-			room:throwCard(id, nil)
-		end
 		goto lab
 	end
 	
@@ -366,6 +366,8 @@ function ddz.Bidding(players)
 		tag:setValue(players:first())
 		room:setTag("LastWinner", tag)]]
 		ddz.StartDraw(players:first(), "DDZVS")
+		ddz.Bidding(players)
+		return
 	end
 	local lord = room:getTag("LastWinner"):toPlayer()
 	for _, p in sgs.qlist(players) do
